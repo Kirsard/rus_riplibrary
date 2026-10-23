@@ -2,7 +2,7 @@
 "id": "rus_riplibrary",
 "title": "Перевод библиотек модулей TheRipper93",
 "description": "Перевод библиотек модулей от TheRipper93 на русский язык",
-"version": "0.1.5",
+"version": "1.0.0",
 "authors": [
 {
   "name": "Kirsard",
@@ -27,5 +27,5 @@
 },
 "url": "https://github.com/Kirsard/rus_riplibrary",
 "manifest": "https://raw.githubusercontent.com/Kirsard/rus_riplibrary/main/module.json",
-"download": "https://github.com/Kirsard/rus_riplibrary/releases/download/0.1.5/module.zip"
+"download": "https://github.com/Kirsard/rus_riplibrary/releases/download/1.0.0/module.zip"
 }
